@@ -7,5 +7,5 @@ There are none.
 ## Installation
 Download the zip file from the releases folder, unzip the folder and put the contents in your 7 Days to Die Mods folder.
 
-# Mod Author
+## Mod Author
 Immersive HUD was developed by Tyler Hughes, also known as GeneralPallas on NexusMods. A founding member of TheDevMisfits, Tyler has been a full-time developer for over seven years, bringing his expertise and passion for gaming to this immersive mod for 7 Days to Die.
